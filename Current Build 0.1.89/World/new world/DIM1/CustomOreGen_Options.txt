@@ -1,5 +1,5 @@
 #Custom Ore Generation 1.2.24 Config Options
-#Sun Mar 06 18:39:40 EST 2016
+#Tue Mar 29 17:06:02 EDT 2016
 iengCopperFreq=1.0
 ticoGoldGravelSize=1.0
 ticoGoldGravelFreq=1.0

@@ -18,6 +18,7 @@
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<ArchimedesShipsPlus:floater>, [[<ore:logWood>, <minecraft:wool>]]);
 recipes.removeShaped(<ArchimedesShipsPlus:balloon:8>, [[<minecraft:wool:8>], [<minecraft:string>]]);
 recipes.removeShaped(<ArchimedesShipsPlus:balloon:7>, [[<minecraft:wool:7>], [<minecraft:string>]]);
 recipes.removeShaped(<ArchimedesShipsPlus:balloon:7>, [[<minecraft:wool:8>], [<minecraft:string>]]);
@@ -51,6 +52,7 @@ recipes.addShapeless(<customnpcs:npcCoinBronze>, [<customnpcs:npcCoinIron>, <cus
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ArchimedesShipsPlus:floater>, [[<ore:slabTreatedWood>, null, <ore:slabTreatedWood>], [null, <ImmersiveEngineering:woodenDecoration:2>, null]]);
 recipes.addShaped(<ArchimedesShipsPlus:balloon>, [[<ImmersiveEngineering:material:3>, <ore:fabricHemp>, <ImmersiveEngineering:material:3>], [<ore:fabricHemp>, <ore:blockTorch>, <ore:fabricHemp>], [null, <ore:nuggetIron>, null]]);
 recipes.addShaped(<customnpcs:npcHandCuffs>, [[null, <ore:stickSteel>, null], [<ImmersiveEngineering:material:12>, null, <ImmersiveEngineering:material:12>]]);
 recipes.addShaped(<customnpcs:npcLetter>, [[null, <minecraft:feather>], [<ore:dyeBlack>, <minecraft:paper>]]);
