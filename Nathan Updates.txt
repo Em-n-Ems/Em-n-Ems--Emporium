@@ -1,0 +1,22 @@
+Modpack Theme:
+Wild West, Frontier Living, City Building
+
+Hardcore Questing Mode:
+Idea is still in the air:
+Banker communicating by letters
+Frontier Family Journal
+-- Both have advantages and disadvantages
+
+Recipe changes are incoming:
+*Air Balloon Changed
+*Furnace recipes changed - Or attempted to...
+*Coins added
+*CustomNPC items for Roleplaying added
+
+Starting Inventory needs to be deliberated.
+-- One or More family members?
+-- What items do they bring out with them?
+
+//~~SPAWN CITY~~\\
+This is a later project and will include the Custom NPC mod and will require a new HQM reward system. It can be added to the pack afterwards.
+
