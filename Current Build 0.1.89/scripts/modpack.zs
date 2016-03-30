@@ -7,8 +7,9 @@ print("hello world");
 // Furnace Recipes Removed
 //
 furnace.remove(<*>, <ore:oreGold>);
+furnace.remove(<*>, <ore:oreIron>);
 furnace.remove(<*>, <ore:oreCopper>);
-furnace.remove(<*>, <ore:oreAluiminum>);
+furnace.remove(<*>, <ore:oreAluminum>);
 furnace.remove(<*>, <ore:oreTin>);
 furnace.remove(<*>, <ore:oreNickel>);
 furnace.remove(<*>, <ore:oreLead>);
